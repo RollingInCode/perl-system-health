@@ -1,0 +1,2 @@
+export GMAIL_EMAIL=youremail@gmail.com
+export GMAIL_PASSWORD=yourpassword
